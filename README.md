@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Video Super Resolution**
 
-- 👨‍💻 All of my projects are available at [https://dario-loi.github.io/about/](https://dario-loi.github.io/about/)
+- 👨‍💻 All of my projects are available at [My Portfolio (:construction: WIP :construction:)](https://dario-loi.github.io/about/)
 
-- 📝 I someitmes write stuff on [https://dario-loi.github.io/](https://dario-loi.github.io/)
+- 📝 I sometimemes write stuff on [My Blog (:construction: WIP :construction:)](https://dario-loi.github.io/)
 
 - 💬 Ask me about **C++, Computer Graphics**
 
