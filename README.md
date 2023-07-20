@@ -9,9 +9,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **My Bachelor Thesis**
+- 🔭 I’m currently working on **My hobby projects**
 
-- 🌱 I’m currently learning **Video Super Resolution**
+- 🌱 I’m currently learning **Entity-Component Systems**
 
 - 👨‍💻 All of my projects are available at [My Portfolio (:construction: WIP :construction:)](https://dario-loi.github.io/about/)
 
