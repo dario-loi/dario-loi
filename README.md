@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Entity-Component Systems**
 
-- 👨‍💻 All of my projects are available at [My Portfolio (:construction: WIP :construction:)](https://dario-loi.github.io/about/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dario-loi.github.io/about/)
 
-- 📝 I sometimemes write stuff on [My Blog (:construction: WIP :construction:)](https://dario-loi.github.io/)
+- 📝 I sometimemes write stuff on [My Blog!](https://dario-loi.github.io/)
 
 - 💬 Ask me about **C++, Computer Graphics**
 
