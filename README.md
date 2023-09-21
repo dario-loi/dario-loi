@@ -9,9 +9,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **My hobby projects**
+- 🔭 I’m currently working on [**StapleGL**](https://github.com/dario-loi/staplegl)
 
-- 🌱 I’m currently learning **Entity-Component Systems**
+- 🌱 I’m currently learning **Robotics**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dario-loi.github.io/about/)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C++, Computer Graphics**
 
-- 📫 How to reach me **dario13.loi@gmail.com**
+- 📫 How to reach me **loi.1940849@studenti.uniroma1.it**
 
 <br>
 
