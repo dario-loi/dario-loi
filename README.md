@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C++, Computer Graphics**
 
-- 📫 How to reach me **loi.1940849@studenti.uniroma1.it**
+- 📫 How to reach me **loi dot [remove this] 1940849 at studenti dot uniroma1 dot it**
 
 <br>
 
