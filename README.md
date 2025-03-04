@@ -9,9 +9,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [**StapleGL**](https://github.com/dario-loi/staplegl)
+- 🔭 I’m currently working on Graph Neural Networks
 
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **Graph Autoencoders**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://dario-loi.github.io/about/)
 
