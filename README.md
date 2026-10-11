@@ -3,8 +3,6 @@
 Ph.D. student in Computer Science at [Northeastern University](https://www.northeastern.edu/), Boston, MA.
 Previously, I studied Computer Science at [Sapienza University of Rome](https://www.uniroma1.it/).
 
-My research is in machine learning, with a broader interest in representation learning and in the efficient implementation of learning systems.
-
 [Website](https://dario-loi.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) · [LinkedIn](https://linkedin.com/in/dario-loi-5182531b1) · [Email](mailto:YOUR_ADDRESS@northeastern.edu)
 
 ### Publications
